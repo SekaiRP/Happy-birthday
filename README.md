@@ -1,4 +1,4 @@
-# Happy Birthday Tara
+# Happy Birthday Elina
 
 [English](#english) | [فارسی](#persian)
 
