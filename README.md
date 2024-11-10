@@ -53,7 +53,7 @@ This project is a beautiful birthday celebration page featuring a cake, heartfel
               }
               ];
               ```
-              Created with love for Tara
+              Created with love for Elina
 
               ## Persian {#persian}
 
